@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "697781671718",
+    "project_id": "coffebro-85c7d",
+    "storage_bucket": "coffebro-85c7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697781671718:android:b4757d40c25d4b55eb53e7",
+        "android_client_info": {
+          "package_name": "com.example.coffeebro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697781671718-k2a3kso245aau2ic1ieve6ad6p6n2vdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxAFYl6XOyccFMhrrc9eMamyez-QKkHDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697781671718-k2a3kso245aau2ic1ieve6ad6p6n2vdu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "697781671718-sqlbqv14d4b8ja2npjj2p66m2d8md6b7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coffebro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
